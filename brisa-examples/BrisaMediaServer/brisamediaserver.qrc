@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ConnectionManager1.xml</file>
+        <file>ContentDirectory1.xml</file>
+        <file>MediaServer1.xml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Figs">
+        <file>Figs/btn.png</file>
+        <file>Figs/btn2.png</file>
+        <file>Figs/btnpower.png</file>
+        <file>Figs/remotecontrol2.jpg</file>
+        <file>Figs/remotecontrol2.png</file>
+        <file>Figs/Splash.png</file>
+    </qresource>
+</RCC>

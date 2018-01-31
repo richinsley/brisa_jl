@@ -1,0 +1,3 @@
+#DEFINES += BUILD_BRISA_CORE \
+#            BUILD_BRISA_UTILS \
+#            BUILD_BRISA_UPNP
